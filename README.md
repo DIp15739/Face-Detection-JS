@@ -10,4 +10,8 @@ detect expressions.
 
 [![DIp15739 on gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/DIp15739/Face-Detection-JS)
 
+***Use Repl.it, a free online Development With IDE***
+
+[![Run on Repl.it](https://repl.it/badge/github/plibither8/2048.cpp)](https://repl.it/github/DIp15739/Face-Detection-JS)
+
 ![Screenshot (27)](https://user-images.githubusercontent.com/42184833/81503830-7aa46300-9303-11ea-8166-9338a74895c3.png)
